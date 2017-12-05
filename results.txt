@@ -1,0 +1,58 @@
+Name: Rahul Issar
+UPI : riss899 
+ID  : 588382864
+
+1. Requests Per Day: 11258.61
+
+2. Total Bytes Transferred(in MB):12344 MB
+
+3. Average Bytes Per day(in MB): 57 MB
+
+4. Various Responses Breakdown : 
+Found  :-  0.67%
+Not Modified  :-  6.42%
+Successful  :-  92.6%
+Unsuccessful :-  0.05%
+
+Host Wise Distribution of Requests and Bytes Transferred:
+
+5. Number of Requests:
+local :- 24.9%
+remote :- 75.1%
+
+6. Bytes Transferred: 
+local :- 24.8%
+remote :- 75.2%
+
+
+File Category Wise Distribution :
+
+7. Number of Request Distribution :
+Sound :- 0.11%
+Formatted :- 0.21%
+Others :- 2.10%
+Images :- 36.57%
+HTML :- 55.32%
+Dynamic :- 5.70%
+Video :- 4.33e-03%
+
+8. Bytes Transferred Distribution :
+Sound :- 1.50%
+Formatted :- 0.78%
+Others :- 3.65%
+Images :- 36.55%
+HTML :- 50.67%
+Dynamic :- 4.22%
+Video :- 2.62%
+
+9. Mean Average Size for Different Categories:
+Sound :- 84082
+Formatted :- 22118
+Others :- 10312
+Images :- 5898
+HTML :- 5404
+Dynamic :- 4378
+Video :- 3564259
+
+10. Unique Files accessed once: 42.13%
+Unique Bytes accessed once: 42.67%
